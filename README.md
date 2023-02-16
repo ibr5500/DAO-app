@@ -4,8 +4,8 @@ This sentence describes what my project is about summarized.
 
 ### Contracts:
 ```
-FakeNFTMarketplace deployed to:  0x31913315D7DA37741840bF79CE21323F8F06D026
-CryptoDevsDAO deployed to:  0x1B2cF0438F9e89229Efb92C3575B1743550EdcED
+FakeNFTMarketplace deployed to:  0x359f65e16cF74d96b645387d1c48dD19A5Df99d1
+CryptoDevsDAO deployed to:  0x922452Dc534DEB9d85cb702AeF79ce9DF90a0D9E
 ```
 
 ## Contribution
