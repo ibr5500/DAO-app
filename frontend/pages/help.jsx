@@ -11,7 +11,10 @@ export default function Help() {
           name="description"
           content="Created by love with Startertemp and LearnWeb3DAO"
         />
-        <link rel="icon" href="/favicon.ico" />
+        <link
+          rel="icon"
+          href="/favicon.ico"
+        />
       </Head>
 
       <main className={styles.main}>
